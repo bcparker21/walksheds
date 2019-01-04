@@ -1,0 +1,621 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="geometry" attr.type="string" for="edge" id="d12" />
+  <key attr.name="length" attr.type="string" for="edge" id="d11" />
+  <key attr.name="oneway" attr.type="string" for="edge" id="d10" />
+  <key attr.name="highway" attr.type="string" for="edge" id="d9" />
+  <key attr.name="name" attr.type="string" for="edge" id="d8" />
+  <key attr.name="osmid" attr.type="string" for="edge" id="d7" />
+  <key attr.name="osmid" attr.type="string" for="node" id="d6" />
+  <key attr.name="x" attr.type="string" for="node" id="d5" />
+  <key attr.name="y" attr.type="string" for="node" id="d4" />
+  <key attr.name="streets_per_node" attr.type="string" for="graph" id="d3" />
+  <key attr.name="simplified" attr.type="string" for="graph" id="d2" />
+  <key attr.name="crs" attr.type="string" for="graph" id="d1" />
+  <key attr.name="name" attr.type="string" for="graph" id="d0" />
+  <graph edgedefault="directed">
+    <node id="126369539">
+      <data key="d4">43.589173</data>
+      <data key="d5">-116.173066</data>
+      <data key="d6">126369539</data>
+    </node>
+    <node id="126380100">
+      <data key="d4">43.590679</data>
+      <data key="d5">-116.176068</data>
+      <data key="d6">126380100</data>
+    </node>
+    <node id="126308952">
+      <data key="d4">43.586052</data>
+      <data key="d5">-116.173362</data>
+      <data key="d6">126308952</data>
+    </node>
+    <node id="126437207">
+      <data key="d4">43.590954</data>
+      <data key="d5">-116.171418</data>
+      <data key="d6">126437207</data>
+    </node>
+    <node id="126437213">
+      <data key="d4">43.59114</data>
+      <data key="d5">-116.171865</data>
+      <data key="d6">126437213</data>
+    </node>
+    <node id="126437224">
+      <data key="d4">43.590485</data>
+      <data key="d5">-116.171657</data>
+      <data key="d6">126437224</data>
+    </node>
+    <node id="126437229">
+      <data key="d4">43.590166</data>
+      <data key="d5">-116.171548</data>
+      <data key="d6">126437229</data>
+    </node>
+    <node id="2341649281">
+      <data key="d4">43.5913018</data>
+      <data key="d5">-116.1721866</data>
+      <data key="d6">2341649281</data>
+    </node>
+    <node id="126378884">
+      <data key="d4">43.589926</data>
+      <data key="d5">-116.172328</data>
+      <data key="d6">126378884</data>
+    </node>
+    <node id="126378888">
+      <data key="d4">43.589897</data>
+      <data key="d5">-116.172846</data>
+      <data key="d6">126378888</data>
+    </node>
+    <node id="126378896">
+      <data key="d4">43.589411</data>
+      <data key="d5">-116.174283</data>
+      <data key="d6">126378896</data>
+    </node>
+    <node id="1978718868">
+      <data key="d4">43.5896702</data>
+      <data key="d5">-116.1766971</data>
+      <data key="d6">1978718868</data>
+    </node>
+    <node id="2722804175">
+      <data key="d4">43.5887728</data>
+      <data key="d5">-116.1751927</data>
+      <data key="d6">2722804175</data>
+    </node>
+    <node id="2722804180">
+      <data key="d4">43.5886006</data>
+      <data key="d5">-116.1760846</data>
+      <data key="d6">2722804180</data>
+    </node>
+    <node id="2722804183">
+      <data key="d4">43.5892039</data>
+      <data key="d5">-116.1757529</data>
+      <data key="d6">2722804183</data>
+    </node>
+    <node id="2722804192">
+      <data key="d4">43.5890135</data>
+      <data key="d5">-116.1755115</data>
+      <data key="d6">2722804192</data>
+    </node>
+    <node id="126410723">
+      <data key="d4">43.590522</data>
+      <data key="d5">-116.172203</data>
+      <data key="d6">126410723</data>
+    </node>
+    <node id="2722804196">
+      <data key="d4">43.588357</data>
+      <data key="d5">-116.1757854</data>
+      <data key="d6">2722804196</data>
+    </node>
+    <node id="2722804197">
+      <data key="d4">43.5890997</data>
+      <data key="d5">-116.1747267</data>
+      <data key="d6">2722804197</data>
+    </node>
+    <node id="2722804199">
+      <data key="d4">43.5887454</data>
+      <data key="d5">-116.1762625</data>
+      <data key="d6">2722804199</data>
+    </node>
+    <node id="126378985">
+      <data key="d4">43.588825</data>
+      <data key="d5">-116.17169</data>
+      <data key="d6">126378985</data>
+    </node>
+    <node id="126410730">
+      <data key="d4">43.591213</data>
+      <data key="d5">-116.172186</data>
+      <data key="d6">126410730</data>
+    </node>
+    <node id="126369533">
+      <data key="d4">43.589441</data>
+      <data key="d5">-116.172234</data>
+      <data key="d6">126369533</data>
+    </node>
+    <node id="126378988">
+      <data key="d4">43.589123</data>
+      <data key="d5">-116.172017</data>
+      <data key="d6">126378988</data>
+    </node>
+    <node id="126273773">
+      <data key="d4">43.5909337</data>
+      <data key="d5">-116.174514</data>
+      <data key="d6">126273773</data>
+    </node>
+    <node id="126273782">
+      <data key="d4">43.5908651</data>
+      <data key="d5">-116.1733282</data>
+      <data key="d6">126273782</data>
+    </node>
+    <node id="126453496">
+      <data key="d4">43.589343</data>
+      <data key="d5">-116.171226</data>
+      <data key="d6">126453496</data>
+    </node>
+    <edge id="0" source="126369539" target="126369533">
+      <data key="d7">13700742</data>
+      <data key="d8">Tallwood Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">73.368</data>
+      <data key="d12">LINESTRING (-116.173066 43.589173, -116.172829 43.589259, -116.172234 43.589441)</data>
+    </edge>
+    <edge id="0" source="126380100" target="126378896">
+      <data key="d7">13701521</data>
+      <data key="d8">East Parkcenter Boulevard</data>
+      <data key="d9">secondary</data>
+      <data key="d10">False</data>
+      <data key="d11">201.772</data>
+      <data key="d12">LINESTRING (-116.176068 43.590679, -116.174602 43.589703, -116.174283 43.589411)</data>
+    </edge>
+    <edge id="0" source="126380100" target="126273773">
+      <data key="d7">13706615</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">134.264</data>
+      <data key="d12">LINESTRING (-116.176068 43.590679, -116.175656 43.59091, -116.175343 43.590946, -116.174514 43.5909337)</data>
+    </edge>
+    <edge id="0" source="126380100" target="1978718868">
+      <data key="d7">187123818</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">129.59500000000003</data>
+      <data key="d12">LINESTRING (-116.176068 43.590679, -116.1765576 43.5903229, -116.1766005 43.5902452, -116.1766971 43.5896702)</data>
+    </edge>
+    <edge id="0" source="126308952" target="126378896">
+      <data key="d7">13701521</data>
+      <data key="d8">East Parkcenter Boulevard</data>
+      <data key="d9">secondary</data>
+      <data key="d10">False</data>
+      <data key="d11">391.149</data>
+      <data key="d12">LINESTRING (-116.173362 43.586052, -116.173364 43.586438, -116.173353 43.586676, -116.173325 43.587289, -116.173327 43.587316, -116.17333 43.587383, -116.17336 43.587908, -116.173601 43.5885, -116.174021 43.589177, -116.174283 43.589411)</data>
+    </edge>
+    <edge id="0" source="126437207" target="126437224">
+      <data key="d7">13706618</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">55.589</data>
+    </edge>
+    <edge id="0" source="126437207" target="126437213">
+      <data key="d7">13706611</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">50.069</data>
+      <data key="d12">LINESTRING (-116.171418 43.590954, -116.171798 43.590984, -116.171867 43.591047, -116.171865 43.59114)</data>
+    </edge>
+    <edge id="1" source="126437207" target="126437213">
+      <data key="d7">13706618</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">71.399</data>
+      <data key="d12">LINESTRING (-116.171418 43.590954, -116.171368 43.591052, -116.171403 43.591143, -116.171456 43.591204, -116.171551 43.591281, -116.171677 43.591231, -116.171865 43.59114)</data>
+    </edge>
+    <edge id="0" source="126437213" target="126410730">
+      <data key="d7">13706618</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">27.097</data>
+    </edge>
+    <edge id="0" source="126437213" target="126437207">
+      <data key="d7">13706611</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">50.069</data>
+      <data key="d12">LINESTRING (-116.171865 43.59114, -116.171867 43.591047, -116.171798 43.590984, -116.171418 43.590954)</data>
+    </edge>
+    <edge id="1" source="126437213" target="126437207">
+      <data key="d7">13706618</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">71.39899999999999</data>
+      <data key="d12">LINESTRING (-116.171865 43.59114, -116.171677 43.591231, -116.171551 43.591281, -116.171456 43.591204, -116.171403 43.591143, -116.171368 43.591052, -116.171418 43.590954)</data>
+    </edge>
+    <edge id="0" source="126437224" target="126437207">
+      <data key="d7">13706618</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">55.589</data>
+    </edge>
+    <edge id="0" source="126437224" target="126437229">
+      <data key="d7">13706613</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">38.073</data>
+      <data key="d12">LINESTRING (-116.171657 43.590485, -116.171568 43.590406, -116.171548 43.590166)</data>
+    </edge>
+    <edge id="0" source="126437224" target="126410723">
+      <data key="d7">13706618</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">52.547999999999995</data>
+      <data key="d12">LINESTRING (-116.171657 43.590485, -116.171744 43.590409, -116.17188 43.590405, -116.172017 43.590411, -116.172113 43.590482, -116.172203 43.590522)</data>
+    </edge>
+    <edge id="0" source="126437229" target="126437224">
+      <data key="d7">13706613</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">38.073</data>
+      <data key="d12">LINESTRING (-116.171548 43.590166, -116.171568 43.590406, -116.171657 43.590485)</data>
+    </edge>
+    <edge id="0" source="2341649281" target="126410730">
+      <data key="d7">13704114</data>
+      <data key="d8">South Riverstone Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">9.874</data>
+    </edge>
+    <edge id="0" source="126378884" target="126378888">
+      <data key="d7">13701426</data>
+      <data key="d8">East River Run Drive</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">41.843</data>
+    </edge>
+    <edge id="0" source="126378884" target="126369533">
+      <data key="d7">13701438</data>
+      <data key="d8">East River Run Drive</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">54.857</data>
+      <data key="d12">LINESTRING (-116.172328 43.589926, -116.172323 43.589687, -116.172234 43.589441)</data>
+    </edge>
+    <edge id="0" source="126378884" target="126410723">
+      <data key="d7">13704114</data>
+      <data key="d8">South Riverstone Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">68.331</data>
+      <data key="d12">LINESTRING (-116.172328 43.589926, -116.172338 43.590272, -116.172203 43.590522)</data>
+    </edge>
+    <edge id="0" source="126378888" target="126378884">
+      <data key="d7">13701426</data>
+      <data key="d8">East River Run Drive</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">41.843</data>
+    </edge>
+    <edge id="0" source="126378888" target="126378896">
+      <data key="d7">13701426</data>
+      <data key="d8">East River Run Drive</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">128.65699999999998</data>
+      <data key="d12">LINESTRING (-116.172846 43.589897, -116.173361 43.589795, -116.174283 43.589411)</data>
+    </edge>
+    <edge id="0" source="126378888" target="126273782">
+      <data key="d7">13706615</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">119.61699999999999</data>
+      <data key="d12">LINESTRING (-116.172846 43.589897, -116.173027 43.590174, -116.173289 43.590368, -116.1733282 43.5908651)</data>
+    </edge>
+    <edge id="0" source="126378896" target="2722804197">
+      <data key="d7">266764879</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">49.751</data>
+    </edge>
+    <edge id="0" source="126378896" target="126378888">
+      <data key="d7">13701426</data>
+      <data key="d8">East River Run Drive</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">128.65699999999998</data>
+      <data key="d12">LINESTRING (-116.174283 43.589411, -116.173361 43.589795, -116.172846 43.589897)</data>
+    </edge>
+    <edge id="0" source="126378896" target="126308952">
+      <data key="d7">13701521</data>
+      <data key="d8">East Parkcenter Boulevard</data>
+      <data key="d9">secondary</data>
+      <data key="d10">False</data>
+      <data key="d11">391.149</data>
+      <data key="d12">LINESTRING (-116.174283 43.589411, -116.174021 43.589177, -116.173601 43.5885, -116.17336 43.587908, -116.17333 43.587383, -116.173327 43.587316, -116.173325 43.587289, -116.173353 43.586676, -116.173364 43.586438, -116.173362 43.586052)</data>
+    </edge>
+    <edge id="0" source="126378896" target="126380100">
+      <data key="d7">13701521</data>
+      <data key="d8">East Parkcenter Boulevard</data>
+      <data key="d9">secondary</data>
+      <data key="d10">False</data>
+      <data key="d11">201.772</data>
+      <data key="d12">LINESTRING (-116.174283 43.589411, -116.174602 43.589703, -116.176068 43.590679)</data>
+    </edge>
+    <edge id="0" source="1978718868" target="126380100">
+      <data key="d7">187123818</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">129.595</data>
+      <data key="d12">LINESTRING (-116.1766971 43.5896702, -116.1766005 43.5902452, -116.1765576 43.5903229, -116.176068 43.590679)</data>
+    </edge>
+    <edge id="0" source="2722804175" target="2722804196">
+      <data key="d7">266764879</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">66.456</data>
+    </edge>
+    <edge id="0" source="2722804175" target="2722804197">
+      <data key="d7">266764879</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">52.248</data>
+    </edge>
+    <edge id="0" source="2722804175" target="2722804192">
+      <data key="d7">266764885</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">37.089</data>
+    </edge>
+    <edge id="0" source="2722804180" target="2722804192">
+      <data key="d7">266764880</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">65.103</data>
+    </edge>
+    <edge id="0" source="2722804180" target="2722804196">
+      <data key="d7">266764884</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">36.255</data>
+    </edge>
+    <edge id="0" source="2722804180" target="2722804199">
+      <data key="d7">266764884</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">21.553</data>
+    </edge>
+    <edge id="0" source="2722804183" target="2722804192">
+      <data key="d7">266764885</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">28.744</data>
+    </edge>
+    <edge id="0" source="2722804192" target="2722804180">
+      <data key="d7">266764880</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">65.103</data>
+    </edge>
+    <edge id="0" source="2722804192" target="2722804175">
+      <data key="d7">266764885</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">37.089</data>
+    </edge>
+    <edge id="0" source="2722804192" target="2722804183">
+      <data key="d7">266764885</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">28.744</data>
+    </edge>
+    <edge id="0" source="126410723" target="126410730">
+      <data key="d7">13704114</data>
+      <data key="d8">South Riverstone Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">76.867</data>
+      <data key="d12">LINESTRING (-116.172203 43.590522, -116.172181 43.591071, -116.172186 43.591213)</data>
+    </edge>
+    <edge id="0" source="126410723" target="126378884">
+      <data key="d7">13704114</data>
+      <data key="d8">South Riverstone Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">68.331</data>
+      <data key="d12">LINESTRING (-116.172203 43.590522, -116.172338 43.590272, -116.172328 43.589926)</data>
+    </edge>
+    <edge id="0" source="126410723" target="126437224">
+      <data key="d7">13706618</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">52.54800000000001</data>
+      <data key="d12">LINESTRING (-116.172203 43.590522, -116.172113 43.590482, -116.172017 43.590411, -116.17188 43.590405, -116.171744 43.590409, -116.171657 43.590485)</data>
+    </edge>
+    <edge id="0" source="2722804196" target="2722804175">
+      <data key="d7">266764879</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">66.456</data>
+    </edge>
+    <edge id="0" source="2722804196" target="2722804180">
+      <data key="d7">266764884</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">36.255</data>
+    </edge>
+    <edge id="0" source="2722804196" target="2722804197">
+      <data key="d7">266764884</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">274.475</data>
+      <data key="d12">LINESTRING (-116.1757854 43.588357, -116.1755169 43.5881664, -116.175235 43.588038, -116.1749751 43.5879955, -116.1746532 43.5879955, -116.1742884 43.5880965, -116.1740953 43.5882014, -116.1740256 43.5883335, -116.1740578 43.5884501, -116.1744172 43.5888192, -116.1747267 43.5890997)</data>
+    </edge>
+    <edge id="0" source="2722804197" target="2722804175">
+      <data key="d7">266764879</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">52.248</data>
+    </edge>
+    <edge id="0" source="2722804197" target="126378896">
+      <data key="d7">266764879</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">49.751</data>
+    </edge>
+    <edge id="0" source="2722804197" target="2722804196">
+      <data key="d7">266764884</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">274.475</data>
+      <data key="d12">LINESTRING (-116.1747267 43.5890997, -116.1744172 43.5888192, -116.1740578 43.5884501, -116.1740256 43.5883335, -116.1740953 43.5882014, -116.1742884 43.5880965, -116.1746532 43.5879955, -116.1749751 43.5879955, -116.175235 43.588038, -116.1755169 43.5881664, -116.1757854 43.588357)</data>
+    </edge>
+    <edge id="0" source="2722804199" target="2722804180">
+      <data key="d7">266764884</data>
+      <data key="d9">service</data>
+      <data key="d10">False</data>
+      <data key="d11">21.553</data>
+    </edge>
+    <edge id="0" source="126378985" target="126378988">
+      <data key="d7">13701438</data>
+      <data key="d8">East River Run Drive</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">42.327</data>
+    </edge>
+    <edge id="0" source="126410730" target="2341649281">
+      <data key="d7">13704114</data>
+      <data key="d8">South Riverstone Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">9.874</data>
+    </edge>
+    <edge id="0" source="126410730" target="126437213">
+      <data key="d7">13706618</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">27.097</data>
+    </edge>
+    <edge id="0" source="126410730" target="126410723">
+      <data key="d7">13704114</data>
+      <data key="d8">South Riverstone Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">76.867</data>
+      <data key="d12">LINESTRING (-116.172186 43.591213, -116.172181 43.591071, -116.172203 43.590522)</data>
+    </edge>
+    <edge id="0" source="126369533" target="126378988">
+      <data key="d7">13701438</data>
+      <data key="d8">East River Run Drive</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">39.443</data>
+    </edge>
+    <edge id="0" source="126369533" target="126369539">
+      <data key="d7">13700742</data>
+      <data key="d8">Tallwood Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">73.368</data>
+      <data key="d12">LINESTRING (-116.172234 43.589441, -116.172829 43.589259, -116.173066 43.589173)</data>
+    </edge>
+    <edge id="0" source="126369533" target="126378884">
+      <data key="d7">13701438</data>
+      <data key="d8">East River Run Drive</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">54.857</data>
+      <data key="d12">LINESTRING (-116.172234 43.589441, -116.172323 43.589687, -116.172328 43.589926)</data>
+    </edge>
+    <edge id="0" source="126378988" target="126369533">
+      <data key="d7">13701438</data>
+      <data key="d8">East River Run Drive</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">39.443</data>
+    </edge>
+    <edge id="0" source="126378988" target="126378985">
+      <data key="d7">13701438</data>
+      <data key="d8">East River Run Drive</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">42.327</data>
+    </edge>
+    <edge id="0" source="126378988" target="126453496">
+      <data key="d7">13708069</data>
+      <data key="d8">Lake Heron Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">68.276</data>
+      <data key="d12">LINESTRING (-116.172017 43.589123, -116.1717 43.589201, -116.171226 43.589343)</data>
+    </edge>
+    <edge id="0" source="126273773" target="126273782">
+      <data key="d7">13694496</data>
+      <data key="d8">East River Park Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">97.09200000000001</data>
+      <data key="d12">LINESTRING (-116.174514 43.5909337, -116.173531 43.5909315, -116.1733282 43.5908651)</data>
+    </edge>
+    <edge id="1" source="126273773" target="126273782">
+      <data key="d7">13706615</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">175.963</data>
+      <data key="d12">LINESTRING (-116.174514 43.5909337, -116.174514 43.5912573, -116.1733875 43.5912338, -116.1731888 43.5910203, -116.1733282 43.5908651)</data>
+    </edge>
+    <edge id="0" source="126273773" target="126380100">
+      <data key="d7">13706615</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">134.264</data>
+      <data key="d12">LINESTRING (-116.174514 43.5909337, -116.175343 43.590946, -116.175656 43.59091, -116.176068 43.590679)</data>
+    </edge>
+    <edge id="0" source="126273782" target="126273773">
+      <data key="d7">13694496</data>
+      <data key="d8">East River Park Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">97.09200000000001</data>
+      <data key="d12">LINESTRING (-116.1733282 43.5908651, -116.173531 43.5909315, -116.174514 43.5909337)</data>
+    </edge>
+    <edge id="1" source="126273782" target="126273773">
+      <data key="d7">13706615</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">175.96300000000002</data>
+      <data key="d12">LINESTRING (-116.1733282 43.5908651, -116.1731888 43.5910203, -116.1733875 43.5912338, -116.174514 43.5912573, -116.174514 43.5909337)</data>
+    </edge>
+    <edge id="0" source="126273782" target="126378888">
+      <data key="d7">13706615</data>
+      <data key="d8">East Riverpark Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">119.61699999999999</data>
+      <data key="d12">LINESTRING (-116.1733282 43.5908651, -116.173289 43.590368, -116.173027 43.590174, -116.172846 43.589897)</data>
+    </edge>
+    <edge id="0" source="126453496" target="126378988">
+      <data key="d7">13708069</data>
+      <data key="d8">Lake Heron Lane</data>
+      <data key="d9">residential</data>
+      <data key="d10">False</data>
+      <data key="d11">68.276</data>
+      <data key="d12">LINESTRING (-116.171226 43.589343, -116.1717 43.589201, -116.172017 43.589123)</data>
+    </edge>
+    <data key="d0">unnamed</data>
+    <data key="d1">{'init': 'epsg:4326'}</data>
+    <data key="d2">True</data>
+    <data key="d3">{126369539: 1, 126249740: 3, 126249750: 3, 5112141604: 4, 126380082: 3, 126284339: 4, 5112141620: 3, 126227514: 3, 126308927: 3, 126274624: 3, 126308930: 3, 126380100: 4, 126308933: 3, 126308936: 3, 126274634: 3, 126308939: 3, 126274637: 3, 126308942: 3, 126308945: 3, 126308949: 3, 126393431: 1, 126308952: 4, 126437207: 3, 126437213: 3, 126437224: 3, 126437229: 1, 126376314: 1, 2341649277: 3, 2341649281: 3, 126378884: 3, 126376327: 1, 126378888: 3, 126378896: 4, 1978718868: 1, 126309020: 1, 126309023: 3, 126401184: 3, 126309027: 3, 126309031: 1, 126277800: 4, 126421672: 3, 2438372784: 1, 126421684: 1, 2722804175: 3, 2722804180: 3, 2722804183: 1, 126250715: 3, 2722804192: 3, 126453986: 1, 126410723: 3, 2722804196: 3, 2722804197: 3, 126230758: 3, 2722804199: 1, 126250722: 1, 126378985: 3, 126410730: 3, 126369533: 3, 126378988: 3, 126273773: 3, 126249708: 3, 126249710: 3, 126410741: 1, 126273782: 3, 126453496: 1, 126249725: 3}</data>
+  </graph>
+</graphml>
